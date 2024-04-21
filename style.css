@@ -1,0 +1,27 @@
+body
+{
+    background:cyan;
+    color:black;
+}
+
+.Heading
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:35px;
+    background-color: chocolate;
+    border-style:double;
+    border-radius:15%;
+}
+
+.Name_of_Objects
+{
+    color:magenta;
+    font-size:18px;
+}
+
+#camera
+{
+    border:2px dotted red;
+    width:350px;
+    height:300px;
+}
